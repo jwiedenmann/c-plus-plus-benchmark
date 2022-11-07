@@ -2,6 +2,8 @@
 #include <ftxui/screen/screen.hpp>
 #include <SFML/Graphics.hpp>
 
+#include "main.hpp"
+
 int main()
 {
     using namespace ftxui;

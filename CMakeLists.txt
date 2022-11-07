@@ -6,5 +6,7 @@ project(example
 
 set(BUILD_SHARED_LIBS OFF)
 
+include_directories(include)
+
 add_subdirectory(dependencies)
 add_subdirectory(src)
